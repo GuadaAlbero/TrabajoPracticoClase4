@@ -1,5 +1,3 @@
-//instalo fetch
-import fetch from 'node-fetch';
 
 async function obtenerUsuario() {
     try {
